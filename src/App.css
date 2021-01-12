@@ -1,0 +1,89 @@
+		.controles *:hover{
+
+			cursor: pointer;
+
+		}
+
+		.controles{
+
+			display: flex;
+
+			justify-content: center;
+
+		}
+
+		.radio{
+			min-width: 75%;
+		}
+
+		select{
+
+			max-width: 75%;
+		
+		}
+
+		.titulo{
+
+			margin-top: 20px;
+
+			font-family: "Lucida Console", Courier, monospace;
+
+			color: white;
+
+
+		}
+
+		.menu{
+
+			text-align: center;
+
+			background: rgba(51,51,51,0.8);
+
+			height: 100vh;
+
+			max-width: 20%;
+
+			display: flex;
+
+			flex-direction: column;
+
+            align-items: center;
+
+		}
+
+		body{
+
+			margin: 0;
+
+			padding: 0;
+
+		}
+
+
+		.contenedor{
+
+			height: 100vh;
+
+			width: 100%;
+
+			position: fixed; 
+
+			z-index: -99; 
+
+			display: flex;
+
+          	flex-direction: row-reverse;
+
+		}
+
+		.contenedorVideo{
+
+			height: 100%;
+
+			width: 100%;
+
+			position: fixed; 
+
+			z-index: -99; 
+
+		}
