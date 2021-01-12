@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ManejaEscucha/static/css/main.26519230.chunk.css",
+    "main.js": "/ManejaEscucha/static/js/main.ecd677a2.chunk.js",
+    "main.js.map": "/ManejaEscucha/static/js/main.ecd677a2.chunk.js.map",
+    "runtime-main.js": "/ManejaEscucha/static/js/runtime-main.b3711bc0.js",
+    "runtime-main.js.map": "/ManejaEscucha/static/js/runtime-main.b3711bc0.js.map",
+    "static/js/2.dd20ed1c.chunk.js": "/ManejaEscucha/static/js/2.dd20ed1c.chunk.js",
+    "static/js/2.dd20ed1c.chunk.js.map": "/ManejaEscucha/static/js/2.dd20ed1c.chunk.js.map",
+    "index.html": "/ManejaEscucha/index.html",
+    "precache-manifest.5da39a5d9aabb4a0553e557919f40f84.js": "/ManejaEscucha/precache-manifest.5da39a5d9aabb4a0553e557919f40f84.js",
+    "service-worker.js": "/ManejaEscucha/service-worker.js",
+    "static/css/main.26519230.chunk.css.map": "/ManejaEscucha/static/css/main.26519230.chunk.css.map",
+    "static/js/2.dd20ed1c.chunk.js.LICENSE.txt": "/ManejaEscucha/static/js/2.dd20ed1c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ManejaEscucha/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3711bc0.js",
+    "static/js/2.dd20ed1c.chunk.js",
+    "static/css/main.26519230.chunk.css",
+    "static/js/main.ecd677a2.chunk.js"
+  ]
+}
